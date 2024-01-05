@@ -1,0 +1,7 @@
+C:\Users\ADMIN\source\repos\QuanLyCD\Chuong1_QuanLyCD\obj\Debug\Chuong1_QuanLyCD.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\QuanLyCD\Chuong1_QuanLyCD\obj\Debug\Chuong1_QuanLyCD.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\QuanLyCD\Chuong1_QuanLyCD\bin\Debug\Chuong1_QuanLyCD.exe.config
+C:\Users\ADMIN\source\repos\QuanLyCD\Chuong1_QuanLyCD\bin\Debug\Chuong1_QuanLyCD.exe
+C:\Users\ADMIN\source\repos\QuanLyCD\Chuong1_QuanLyCD\bin\Debug\Chuong1_QuanLyCD.pdb
+C:\Users\ADMIN\source\repos\QuanLyCD\Chuong1_QuanLyCD\obj\Debug\Chuong1_QuanLyCD.exe
+C:\Users\ADMIN\source\repos\QuanLyCD\Chuong1_QuanLyCD\obj\Debug\Chuong1_QuanLyCD.pdb
